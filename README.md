@@ -26,3 +26,9 @@
    - If no collision is detected after the priest's movement, it prints "NIRVANA" indicating that the priest successfully reached the other side of the matrix.
 
 The code uses functions to organize the logic, making it modular. It simulates the movement of both snakes and the priest, checking for collisions and printing the appropriate output.
+
+**TEST CASE 1**
+![image](https://github.com/vr-jayashree5443/Priest-and-Snake-Problem-Solution/assets/128161257/a9f67e57-94a9-4e57-bec5-6d38881e79aa)
+
+**TEST CASE 2**
+![image](https://github.com/vr-jayashree5443/Priest-and-Snake-Problem-Solution/assets/128161257/1d1461a8-9391-409f-8f5f-8e03fa84ecc7)
