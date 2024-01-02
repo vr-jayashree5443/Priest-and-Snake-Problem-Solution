@@ -28,9 +28,10 @@
 The code uses functions to organize the logic, making it modular. It simulates the movement of both snakes and the priest, checking for collisions and printing the appropriate output.
 
 **TEST CASE 1**
-![image](https://github.com/vr-jayashree5443/Priest-and-Snake-Problem-Solution/assets/128161257/451f82ee-cc6e-40b9-b1ec-f622277590c8)
+
+![293653637-451f82ee-cc6e-40b9-b1ec-f622277590c8](https://github.com/vr-jayashree5443/Priest-and-Snake-Problem-Solution/assets/128161257/55f4ff85-60f7-4d4c-82c9-9e158683cccf)
 
 
 **TEST CASE 2**
 
-![image](https://github.com/vr-jayashree5443/Priest-and-Snake-Problem-Solution/assets/128161257/a9d44745-7635-4ef2-bf7c-3c401198eeae)
+![293653326-a9d44745-7635-4ef2-bf7c-3c401198eeae](https://github.com/vr-jayashree5443/Priest-and-Snake-Problem-Solution/assets/128161257/a2b14a22-8c46-4d80-8c49-50b3b890c35b)
